@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
   - <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> </a>
 
-## Minhas certificações:
+## Algumas certificações:
   - <img src="./technology/cert-dev.jpg" width="400px">
 
   - <img src="./technology/cert-figma.jpg" width="400px">
