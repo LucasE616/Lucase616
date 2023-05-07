@@ -37,9 +37,9 @@ Here are some ideas to get you started:
   - <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> </a>
 
 ## Minhas certificações:
-  - <img src="./technology/cert-dev.jpg" width="250px">
+  - <img src="./technology/cert-dev.jpg" width="400px">
 
-  - <img src="./technology/cert-figma.jpg" width="250px">
+  - <img src="./technology/cert-figma.jpg" width="400px">
 
 ## Como me encontrar:
   - <a href="https://wa.me/5538998130581" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
