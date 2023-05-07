@@ -36,6 +36,18 @@ Here are some ideas to get you started:
 
   - <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> </a>
 
+## Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucase616&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucase616&layout=compact)](https://github.com/USERNAME/github-readme-stats)
+
+## My tools:
+  - <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
+
+  - <img src="./technology/vsc.svg" width="40px">
+
+  - <img src="./technology/mozilla.svg" width="90px">
+
+  - <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+
 ## Algumas certificações:
   - <img src="./technology/cert-dev.jpg" width="400px">
 
@@ -51,3 +63,8 @@ Here are some ideas to get you started:
   - <a href="mailto:lucase616@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 
   - <a href="https://www.instagram.com/lucase616/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+
+  - <a href="https://dev.to/lucase616" target="_blank"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"> </a>
+
+
+  <img src="./technology/octocat.png">
