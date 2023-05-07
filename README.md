@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucase616&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucase616&layout=compact)](https://github.com/USERNAME/github-readme-stats)
 
 ## My tools:
-  - <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
+  - <a href="https://www.linux.org/"> <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"> </a>
 
-  - <img src="./technology/vsc.svg" width="40px">
+  - <a href="https://code.visualstudio.com/"> <img src="./technology/vsc.svg" width="40px"> </a>
 
-  - <img src="./technology/mozilla.svg" width="90px">
+  - <a href="https://developer.mozilla.org/pt-BR/"> <img src="./technology/mozilla.svg" width="90px"> </a>
 
-  - <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  - <a href="http://youtube.com/"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
 
 ## Algumas certificações:
   - <img src="./technology/cert-dev.jpg" width="400px">
