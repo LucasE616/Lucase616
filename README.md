@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### ...
+  - <a href="#tecnlogias-que-uso">tech</a>
+  - <a href=""></a>
+  - <a href=""></a>
+  - <a href=""></a>
+
 ## Sobre mim:
 - Sou um jovem programador em início de carreira, com o objetivo de ser um Desenvolvedor completo. Hoje estudo e faço projetos Front-end, usando HTML, CSS, JavaScript e Vue.js. Também crio desings no Figma...
 
