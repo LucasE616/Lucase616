@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
   - <a href="https://www.figma.com/" target="_blank"> <img src="./technology/figma.svg" width="60px"> </a>
 
+  - <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> </a>
+
   - <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> </a>
 
 ## Stats:
